@@ -1,0 +1,7 @@
+1. Write a program to perform element-wise trigonometric functions (sin, cos, tan) on an array
+
+2. Extract all odd numbers from an array
+
+3. Demonstrate slicing operations on 2D and 3D arrays
+
+4. Demonstrate sum(), cumsum(), max() and min() axis wise on a 2D array
